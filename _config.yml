@@ -57,6 +57,7 @@ versions:
 # The categories for the side navigation. These correspond to the folders under the /docs folder
 doctypes:
   - foundation
+  - test
   - components
   - patterns
   - inspiration
