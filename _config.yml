@@ -41,8 +41,8 @@ email: contactUXD@uspto.gov?subject=USPTO UI Design Library
 
 # Repository information, which is used for links like "View on Github"
 repository:
-  name: uspto/designpatterns
-  url: https://github.com/uspto/designpatterns
+  name: mardia/designpatterns
+  url: https://github.com/mardia/designpatterns
 
 # The latest stable version
 version: 1.3.0
